@@ -1,5 +1,6 @@
 package com.pluralsite;
 import java.util.Scanner;
+
 public class InterestCalculator {
     public static Scanner scanner = new Scanner(System.in);
 
